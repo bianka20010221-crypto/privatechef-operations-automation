@@ -1,0 +1,33 @@
+[
+  {
+    "order_id": "DEMO-1001",
+    "delivery_date": "2026-10-12",
+    "customer": "Minta Anna",
+    "address": "1111 Mintaváros, Példa utca 1.",
+    "phone": "+36 30 000 0001",
+    "items": [
+      {"name": "Zöldséges csirkemell", "quantity": 2},
+      {"name": "Almás pohárkrém", "quantity": 1}
+    ]
+  },
+  {
+    "order_id": "DEMO-1002",
+    "delivery_date": "2026-10-12",
+    "customer": "Teszt Béla",
+    "address": "1111 Mintaváros, Próba tér 2.",
+    "phone": "+36 30 000 0002",
+    "items": [
+      {"name": "Zöldséges csirkemell", "quantity": 1}
+    ]
+  },
+  {
+    "order_id": "DEMO-1003",
+    "delivery_date": "2026-10-13",
+    "customer": "Példa Csilla",
+    "address": "1111 Mintaváros, Teszt köz 3.",
+    "phone": "+36 30 000 0003",
+    "items": [
+      {"name": "Sült zöldséges kuszkusz", "quantity": 2}
+    ]
+  }
+]

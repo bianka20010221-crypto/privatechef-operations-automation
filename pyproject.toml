@@ -1,0 +1,8 @@
+[project]
+name = "privatechef-operations-automation"
+version = "1.0.0"
+description = "Privacy-safe demo of a food-order operations pipeline"
+requires-python = ">=3.10"
+
+[tool.unittest]
+start-directory = "tests"
